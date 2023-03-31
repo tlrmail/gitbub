@@ -1,0 +1,13 @@
+1º passo(Nélio Alves)
+ - Criar e resolver um conflito pull;
+
+2º passo(Nélio Alves)
+ - Criar um conflito de de push;
+
+3º passo(Git e GitHub Ninja)
+ - Explicar o que é uma branch;
+ - Criar uma branch auxiliar;
+ - Fazer um merge de branches.
+
+4º passo
+ - Resolver um conflito no eclipse.
